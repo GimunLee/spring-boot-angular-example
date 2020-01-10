@@ -4,6 +4,8 @@ Spring Boot + Angular Example
 
 
 ## Integration Run (8080 port)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGimunLee%2Fspring-boot-angular-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGimunLee%2Fspring-boot-angular-example?ref=badge_shield)
+
   
 - Angular Build : ```ng build```
 - Build Target : src/main/resources/static
@@ -25,3 +27,6 @@ Spring Boot + Angular Example
 ## Reference
 - [/cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
 - [/seriyalexandrov/spring-boot-angular-sse](https://github.com/seriyalexandrov/spring-boot-angular-sse)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGimunLee%2Fspring-boot-angular-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGimunLee%2Fspring-boot-angular-example?ref=badge_large)
