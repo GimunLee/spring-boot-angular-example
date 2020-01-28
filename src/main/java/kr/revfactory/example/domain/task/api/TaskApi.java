@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+@CrossOrigin("*")
 @Slf4j
 @RestController
 @RequestMapping("/api/tasks")
